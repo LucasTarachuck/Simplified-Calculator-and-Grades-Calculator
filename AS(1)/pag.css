@@ -1,0 +1,25 @@
+div a{
+    text-decoration: none;
+}
+button:hover{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+    width: 120px;
+    height: 60px;
+}
+h1{
+    padding-bottom: 50px;
+}
+article{
+    display: flex;
+    text-wrap: wrap;
+    justify-content: space-around;
+    padding-right: 30px;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+button{
+    width: 100x;
+    height: 50px;
+}

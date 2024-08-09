@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0 ;
+}
+div a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+section{
+    padding-left: 500px;
+    width: 60%;
+}
+button{
+    width: 60px;
+}
